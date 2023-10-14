@@ -1,7 +1,5 @@
 # Estrutura de Condição
-Conceitos de Estruturas Condicionais em Java, com o auxilio do instrutor Gleyson Sampaio
-
-https://github.com/glysns
+Conceitos de Estruturas Condicionais em Java.
 
 ## Assuntos
 - Condicional simples
@@ -9,3 +7,6 @@ https://github.com/glysns
 - Condicional encadeada
 - Condição ternária
 - Switch Case
+
+### Professor
+Gleyson Sampaio - https://github.com/glysns
